@@ -1,0 +1,90 @@
+"Provide a list of book recommendations based on the following preferences: 
+- Genres: [Mystery, Fantasy, Science Fiction]
+- Favorite Authors: [Agatha Christie, J.K. Rowling, Isaac Asimov]
+- Recent Enjoyed Books: ["And Then There Were None" by Agatha Christie, "Harry Potter and the Sorcerer's Stone" by J.K. Rowling, "Foundation" by Isaac Asimov]
+- Preferred Mood: [Adventurous and engaging, with a mix of suspense and wonder]
+- Avoidance Topics: [Graphic violence, horror themes]
+- Additional Preferences: [Enjoys well-developed characters and rich world-building]
+
+The recommendations should be diverse and cater to the user's unique reading profile."
+
+"Provide a list of book recommendations based on the following preferences: 
+- Age Of Reader: [35]
+- Genres: [Mystery, Fantasy, Science Fiction]
+- Favorite Authors: [Agatha Christie, J.K. Rowling, Isaac Asimov]
+- Recent Enjoyed Books: ["And Then There Were None" by Agatha Christie, "Harry Potter and the Sorcerer's Stone" by J.K. Rowling, "Foundation" by Isaac Asimov]
+- Preferred Mood: [Adventurous and engaging, with a mix of suspense and wonder]
+- Avoidance Topics: [Graphic violence, horror themes]
+- Additional Preferences: [Enjoys well-developed characters and rich world-building]
+
+The recommendations should be diverse and cater to the user's unique reading profile."
+
+with age 35 
+
+1. "The Lies of Locke Lamora" by Scott Lynch
+2. "Good Omens" by Neil Gaiman and Terry Pratchett
+3. "The Name of the Wind" by Patrick Rothfuss
+4. "The Fifth Season" by N.K. Jemisin
+5. "Plurality of Worlds" by Bernard le Bovier de Fontenelle
+6. "The Hitchhiker's Guide to the Galaxy" by Douglas Adams
+7. "A Darker Shade of Magic" by V.E. Schwab
+8. "Perdido Street Station" by China Mieville
+9. "The Colour of Magic" by Terry Pratchett
+10. "Neverwhere" by Neil Gaiman
+
+with age 11
+
+1. "A Wrinkle in Time" by Madeleine L'Engle
+2. "The Westing Game" by Ellen Raskin
+3. "Howl's Moving Castle" by Diana Wynne Jones
+4. "The Graveyard Book" by Neil Gaiman
+5. "Zathura" by Chris Van Allsburg
+6. "The Giver" by Lois Lowry
+7. "The Lion, the Witch and the Wardrobe" by C.S. Lewis
+8. "The Hitchhiker’s Guide to the Galaxy" by Douglas Adams
+9. "Ender's Game" by Orson Scott Card 
+10. "Gathering Blue" by Lois Lowry
+11. "The Penderwicks" by Jeanne Birdsall
+
+Seems to get the book difficulty to age range right.
+
+Young Adult Reader
+
+Age Of Reader: 16
+Genres: [Young Adult, Romance, Fantasy]
+Favorite Authors: [John Green, Sarah J. Maas, Leigh Bardugo]
+Recent Enjoyed Books: ["The Fault in Our Stars" by John Green, "Throne of Glass" by Sarah J. Maas, "Six of Crows" by Leigh Bardugo]
+Preferred Mood: [Emotionally resonant, coming-of-age themes, with elements of fantasy]
+Avoidance Topics: [Heavy political themes, dystopian settings]
+Mature Reader Seeking Literary Fiction
+
+Age Of Reader: 45
+Genres: [Literary Fiction, Historical Fiction, Biography]
+Favorite Authors: [Kazuo Ishiguro, Hilary Mantel, Ian McEwan]
+Recent Enjoyed Books: ["Never Let Me Go" by Kazuo Ishiguro, "Wolf Hall" by Hilary Mantel, "Atonement" by Ian McEwan]
+Preferred Mood: [Reflective, thought-provoking, with rich character development]
+Avoidance Topics: [Science fiction, supernatural elements]
+Middle-Aged Reader Interested in Non-Fiction
+
+Age Of Reader: 35
+Genres: [Non-Fiction, Self-Help, Business]
+Favorite Authors: [Malcolm Gladwell, Brené Brown, Simon Sinek]
+Recent Enjoyed Books: ["Outliers" by Malcolm Gladwell, "Dare to Lead" by Brené Brown, "Start with Why" by Simon Sinek]
+Preferred Mood: [Inspirational, informative, with practical advice]
+Avoidance Topics: [Fantasy, romance]
+Senior Reader with a Love for Classics
+
+Age Of Reader: 70
+Genres: [Classics, Mystery, Historical]
+Favorite Authors: [Jane Austen, Charles Dickens, Agatha Christie]
+Recent Enjoyed Books: ["Pride and Prejudice" by Jane Austen, "Great Expectations" by Charles Dickens, "Murder on the Orient Express" by Agatha Christie]
+Preferred Mood: [Nostalgic, timeless, with strong narrative voices]
+Avoidance Topics: [Explicit content, modern slang]
+Teenager Exploring Diverse Genres
+
+Age Of Reader: 14
+Genres: [Graphic Novels, Adventure, Science Fiction]
+Favorite Authors: [Raina Telgemeier, Rick Riordan, Douglas Adams]
+Recent Enjoyed Books: ["Smile" by Raina Telgemeier, "Percy Jackson & the Olympians" by Rick Riordan, "The Hitchhiker's Guide to the Galaxy" by Douglas Adams]
+Preferred Mood: [Fun, exciting, with a mix of humor and action]
+Avoidance Topics: [Dark horror, advanced scientific concepts]
